@@ -1,3 +1,3 @@
 <p align="center">
- <img src="https://github.com/AlmogJakov/AlmogJakov/blob/main/welcome-back-small.gif"/>
+ <img src="https://www.pinterest.com/pin/860469072545193525/"/>
 </p>
