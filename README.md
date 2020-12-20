@@ -1,3 +1,1 @@
-<p align="center">
- <img src="https://im6.ezgif.com/tmp/ezgif-6-f46e4ea96dc7.gif"/>
-</p>
+![welcomeBack](https://user-images.githubusercontent.com/69470263/102721655-d062d400-4304-11eb-8010-12c510514d03.png)
