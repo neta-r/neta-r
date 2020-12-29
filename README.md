@@ -1,4 +1,3 @@
-<p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/69470263/102721704-2f284d80-4305-11eb-871d-51c417749b9f.png">
-</p>
+![73Wt (1)](https://user-images.githubusercontent.com/69470263/103275146-2a7e2c00-49cc-11eb-8492-65350e0fdf46.gif)
+
 
